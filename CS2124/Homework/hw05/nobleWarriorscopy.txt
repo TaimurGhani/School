@@ -1,0 +1,9 @@
+Noble Linus_Torvalds
+Noble Bill_Gates
+Warrior Xena 20
+Warrior Hulk 8
+Hire Linus_Torvalds Xena
+Hire Bill_Gates Hulk
+Status
+Battle Linus_Torvalds Bill_Gates
+Status
